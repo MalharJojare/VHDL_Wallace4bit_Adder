@@ -1,0 +1,1 @@
+-wto "6875bef16b9246fbab8254e2ce16de46" --incr --debug "typical" --relax --mt "2" -L "xil_defaultlib" -L "secureip" --snapshot "wallace4_behav" "xil_defaultlib.wallace4" -log "elaborate.log" 
